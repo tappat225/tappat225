@@ -14,9 +14,9 @@ A dreamer to do something **COOL** !
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=light-city&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="light-city's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tappai&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="light-city's github stats"/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-city&bg_color=071A2C&text_color=FFFFFF" alt="light-city's top langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tappai&bg_color=071A2C&text_color=FFFFFF" alt="light-city's top langs"/>
 </p>
 
 
