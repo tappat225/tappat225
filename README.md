@@ -1,6 +1,6 @@
 # Hi,I'm TappaT
 
-A dreamer to do something **COOL** !
+A dreamer who wants to do something **COOL** !
 
 :computer: Embeded Software Engineer, currently based in Fuzhou at Ruijie.
 
