@@ -2,7 +2,7 @@
 
 A dreamer who wants to do something **COOL** !
 
-:computer: Embeded Software Engineer, currently based in Fuzhou at Ruijie.
+:computer: Embeded Software Engineer, currently based in Nanjing at Tietoevry.
 
 ## ⚡ Technologies
 
