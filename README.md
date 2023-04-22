@@ -22,7 +22,6 @@ A dreamer who wants to do something **COOL** !
 
 ![AI](https://img.shields.io/badge/AI-NN-brightgreen) [PV_prediction](https://github.com/tappat225/PV_prediction)
 
-![Game](https://img.shields.io/badge/2D-Game-lightgrey) [CyberGarden](https://github.com/tappat225/cyberGarden)
 
 <!--
 **Tappai/Tappai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
