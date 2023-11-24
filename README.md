@@ -1,6 +1,4 @@
-# Hi,I'm TappaT
-
-A dreamer who wants to do something **COOL** !
+# Hi, I'm TappaT
 
 :computer: Software Engineer, currently based in Nanjing.
 
