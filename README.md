@@ -1,5 +1,5 @@
 # Hello, I'm TappaT 👋
-🏠 Software Engineer based in Nanjing, China  
+🏠 Software Engineer 
 💻 Passion about system design && algorithm optimization
 
 ## 🛠️ Tech Stack
