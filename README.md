@@ -1,6 +1,5 @@
 # Hello, I'm TappaT 👋
-🏠 Software Engineer 
-💻 Passion about system design && algorithm optimization
+🏠 Software Engineer
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
